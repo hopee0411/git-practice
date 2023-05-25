@@ -5,3 +5,5 @@
 LastTest_원격
 
 v2.0.0
+
+gitmoji
