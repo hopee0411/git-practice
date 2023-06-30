@@ -7,3 +7,5 @@ LastTest_원격
 v2.0.0
 
 reject test1
+
+main test2
